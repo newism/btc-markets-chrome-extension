@@ -2,7 +2,7 @@
 
 Chrome Extension that adds a +/- percentage, profit and total spend to the 'My Trading History' panel
 
-![Screenshot](screenshot-2.png)
+![Screenshot](screenshot.png)
 
 Installation
 ------------
